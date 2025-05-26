@@ -1,0 +1,23 @@
+{
+  "name": "youtubelik-backend",
+  "version": "1.0.0",
+  "description": "Backend for YouTube search and download application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "youtube",
+    "search",
+    "download",
+    "mp3",
+    "mp4"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "node-fetch": "^2.6.1"
+  }
+}
